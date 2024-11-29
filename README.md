@@ -1,4 +1,5 @@
 # GrimReaperAI
+Simple game which uses A* for pathfinding and Q-learning for RL.
 
 ## Requirements
 
