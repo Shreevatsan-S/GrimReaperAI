@@ -8,6 +8,15 @@ GrimReaperAI is a game built in **Godot** that explores artificial intelligence 
 
 The goal of this project was to understand how traditional pathfinding algorithms can be combined with learning-based approaches to create more dynamic and responsive game AI.
 
+## Screenshots
+
+### Main Menu
+![Main Menu](assets/menu.jpg)
+
+### AI Pathfinding View
+![AI Pathfinding](assets/ai-path.jpg)
+
+
 ## Key Features
 
 * A* pathfinding for real-time navigation in grid-based environments
